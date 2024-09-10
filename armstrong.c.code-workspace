@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"INSORT.C": "cpp",
+			"INSERT.C": "cpp",
+			"K.C": "cpp",
+			"krish.C": "cpp"
+		}
+	}
+}
