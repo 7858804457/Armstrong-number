@@ -1,0 +1,2 @@
+# Armstrong-number
+C  program
